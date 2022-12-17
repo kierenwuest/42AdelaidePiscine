@@ -37,3 +37,6 @@ Wiki where I put my notes: https://github.com/kierenwuest/42AdelaidePiscine/wiki
 [![kwuest's 42 C Piscine Exam 02 Score](https://badge42.vercel.app/api/v2/clb55h6z600300fkzy9cemaa4/project/2905455)](https://github.com/JaeSeoKim/badge42)
 [![kwuest's 42 C Piscine Final Exam Score](https://badge42.vercel.app/api/v2/clb55h6z600300fkzy9cemaa4/project/2912589)](https://github.com/JaeSeoKim/badge42)
 Exams
+
+![image](https://user-images.githubusercontent.com/112849006/208248685-984bed7a-308b-4358-b422-617f8f7acfcf.png)
+
