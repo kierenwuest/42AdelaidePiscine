@@ -38,6 +38,8 @@ C08 - .h files and structs
 
 [![kwuest's 42 C Piscine C 09 Score](https://badge42.vercel.app/api/v2/clb55h6z600300fkzy9cemaa4/project/2914797)](https://github.com/JaeSeoKim/badge42) C09 
 
+## Student Group Results
+
 The gamification aspets of this insitiution are extrmely engaging and motivating. Below are the teams we were grouped in and worked togther with.
 Scores awarded for peer review, hosting and attending events, and passing subjects and exams.
 
