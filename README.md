@@ -36,6 +36,8 @@ C08 - .h files and structs
 
 [![kwuest's 42 C Piscine C 09 Score](https://badge42.vercel.app/api/v2/clb55h6z600300fkzy9cemaa4/project/2914797)](https://github.com/JaeSeoKim/badge42) C09 
 
+The gamification aspets of this insitiution are extrmely engaging and motivating. Below are the teams we were grouped in and worked togther with.
+
 ![image](https://user-images.githubusercontent.com/112849006/208248013-1a5d6dd7-22e8-492e-af4b-e86b0762f02c.png)
 
 ![image](https://user-images.githubusercontent.com/112849006/208247982-cd99c97a-92b7-48fc-a001-96a704024cdd.png)
