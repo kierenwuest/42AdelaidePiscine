@@ -1,9 +1,9 @@
 # 42AdelaidePiscine
-Nov-Dec 2022 Piscine
+## Nov-Dec 2022 Piscine
 
 Wiki where I put my notes: https://github.com/kierenwuest/42AdelaidePiscine/wiki
 
-My results after 4 weeks:
+## My results after 4 weeks:
 
 [![kwuest's 42 C Piscine Shell 00 Score](https://badge42.vercel.app/api/v2/clb55h6z600300fkzy9cemaa4/project/2886498)](https://github.com/JaeSeoKim/badge42) Shell00 - Unix Basic
 
