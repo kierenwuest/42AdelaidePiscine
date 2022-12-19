@@ -1,5 +1,6 @@
 #include <unistd.h>
 
+// Theres probably a better way to do this using the base algorithm in C04/ex04
 void printLowHex(int c)
 {
 	if (c <= 9)
