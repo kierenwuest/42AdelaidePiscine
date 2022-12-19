@@ -12,7 +12,7 @@ unsigned int ft_strlcpy(char *dest, char *src, unsigned int size)
 	dest[i] = '\0';
 	return (i);
 }
-
+/*
 #include <stdio.h>
 #include <stdlib.h>
 int	main(int argc, char **argv)
@@ -43,3 +43,4 @@ int	main(int argc, char **argv)
 
 	return(0);
 }
+*/
