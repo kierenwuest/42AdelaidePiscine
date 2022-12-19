@@ -5,7 +5,11 @@
 ```
 65%
 
-ex10: Post piscine attempt: Test Output
+### ex10: Post piscine attempt: 
+
+Reproduce the behavior of the function strlcpy (man strlcpy).
+
+Test Output
 ```
 kwuest:/mnt/c/Code/C/C02/ex10$ ./a.out hellothere 7
 Source Input      : "hellothere"
@@ -13,7 +17,7 @@ Limited by        : 7 bytes
 Destination Output: "hellot"
 ```
 
-ex11: Post piscine attempt: 
+### ex11: Post piscine attempt: 
 
 Create a function that displays a string of characters onscreen. If this string contains characters that aren’t printable, they’ll have to be displayed in the shape of
 hexadecimals (lowercase), preceeded by a "backslash".
@@ -26,7 +30,7 @@ hexadecimals (lowercase), preceeded by a "backslash".
 
 `Coucou\0atu vas bien ?`
 
-Test Output
+Test Output (including full ascii table)
 ```
 kwuest:/mnt/c/Code/C/C02/ex11$ ./a.out
 Coucou\0atu vas bien ?
