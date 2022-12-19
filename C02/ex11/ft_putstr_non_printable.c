@@ -39,7 +39,7 @@ void ft_putstr_non_printable(char *str)
 		printLowHex(str[i++]);
 	write(1, "\n", 1);
 }
-
+/*
 int main()
 {
 	char *str = "Coucou\ntu vas bien ?";
@@ -50,3 +50,4 @@ int main()
 	write(1, "\n", 1);
 	return (0);
 }
+*/
