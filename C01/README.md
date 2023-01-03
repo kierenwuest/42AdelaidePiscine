@@ -5,7 +5,7 @@
 ```
 85%
 
-## ex08: ft_sort_int_tab: Post piscine attepmt 
+## ex08: [ft_sort_int_tab](https://github.com/kierenwuest/42AdelaidePiscine/blob/main/C01/ex08/ft_sort_int_tab.c): Post piscine attepmt 
 
 • Create a function which sorts an array of integers by ascending order.
 
