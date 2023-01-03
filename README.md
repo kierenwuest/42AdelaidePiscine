@@ -10,7 +10,7 @@ Wiki where I put my notes: https://github.com/kierenwuest/42AdelaidePiscine/wiki
 [![kwuest's 42 C Piscine Shell 01 Score](https://badge42.vercel.app/api/v2/clb55h6z600300fkzy9cemaa4/project/2900198)](https://github.com/JaeSeoKim/badge42) Shell01 - Unix Advanced
 
 [![kwuest's 42 C Piscine C 00 Score](https://badge42.vercel.app/api/v2/clb55h6z600300fkzy9cemaa4/project/2893436)](https://github.com/JaeSeoKim/badge42) 
-C00 - Introduction to C and ASCII via printing characters and increasing complex execises
+C00 - Introduction to C and ASCII via printing characters and increasingly complex exercises
 
 [![kwuest's 42 C Piscine C 01 Score](https://badge42.vercel.app/api/v2/clb55h6z600300fkzy9cemaa4/project/2904556)](https://github.com/JaeSeoKim/badge42) 
 C01 - Pointers, div mod and while loop conditions
